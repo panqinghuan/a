@@ -1,0 +1,12 @@
+# Project exclude paths
+/sp01-commons/target/
+/sp02-itemservice/target/
+/sp03-userservice/target/
+/sp04-orderservice/target/
+/sp05-eureka/target/
+/sp06-ribbon/target/
+/sp07-hystrix/target/
+/sp08-hystrix-dashboard/target/
+/sp09-feign/target/
+/sp10-turbine/target/
+/sp11-zuul/target/
